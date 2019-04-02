@@ -7,3 +7,6 @@
 [submodule "rlrs/reddit-RL-simulator"]
 	path = rlrs/reddit-RL-simulator
 	url = https://github.com/jvking/reddit-RL-simulator.git
+[submodule "rs_basic/moviegeek"]
+	path = rs_basic/moviegeek
+	url = https://github.com/practical-recommender-systems/moviegeek.git
