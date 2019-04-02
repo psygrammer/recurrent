@@ -1,3 +1,9 @@
 [submodule "k8s/kubernetes-in-action"]
 	path = k8s/kubernetes-in-action
 	url = https://github.com/luksa/kubernetes-in-action.git
+[submodule "rlrs/reco-gym"]
+	path = rlrs/reco-gym
+	url = https://github.com/criteo-research/reco-gym.git
+[submodule "rlrs/reddit-RL-simulator"]
+	path = rlrs/reddit-RL-simulator
+	url = https://github.com/jvking/reddit-RL-simulator.git
